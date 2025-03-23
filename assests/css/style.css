@@ -119,3 +119,26 @@
 .contact a{
     color: #fff;
 }
+
+.msg {
+    display: flex;
+  align-content: center;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background: #e31d24;
+  color: #fff;
+}
+
+.msg button{
+    border: 0;
+  border-radius: 3px;
+  background: white;
+  padding: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #252525;
+}
+.msg a {
+    color: #fff;
+}
